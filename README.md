@@ -52,6 +52,12 @@ Le déploiement est réalisé dans un environnement Linux et peut être exécut�
 
 Les développements et automatisations associés reposent principalement sur Python, Bash ainsi que sur des fichiers de configuration YAML et JSON.
 
+### Infrastructure
+
+L'infrastructure du projet repose sur un hyperviseur **Proxmox VE** hébergeant l'ensemble des machines virtuelles, accessible via un tunnel **WireGuard** chiffré. L'objectif cible est de centraliser la sécurité réseau via une VM **pfSense** agissant comme passerelle unique pour l'ensemble des VM.
+
+Le détail de cette architecture (état actuel, schéma logique, travaux restants) est documenté dans [`docs/infrastructure.md`](docs/infrastructure.md).
+
 ### Sécurité
 
 La sécurité de la plateforme est assurée par l'utilisation de mécanismes d'authentification sécurisés, de contrôles d'accès granulaires et du chiffrement des communications via TLS/SSL.
