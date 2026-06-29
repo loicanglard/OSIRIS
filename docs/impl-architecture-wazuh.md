@@ -35,7 +35,7 @@ Elle héberge :
 
 ---
 
-### 🐧 VM 2 — Ubuntu (agent)
+### 🐧 VM 2 — Mint (agent)
 
 - Système Linux standard
 - Installation de l’agent Wazuh
@@ -83,7 +83,7 @@ Elle héberge :
         ┌─────────────────────┼─────────────────────┐
         │                     │                     │
  ┌──────────────┐   ┌────────────────┐   ┌──────────────────┐
- │ Ubuntu VM    │   │ Windows VM     │   │ Metasploitable   │
+ │ Mint VM      │   │ Windows VM     │   │ Metasploitable   │
  │ Wazuh Agent  │   │ Wazuh Agent    │   │ Wazuh Agent      │
  └──────────────┘   └────────────────┘   └──────────────────┘
                               │
