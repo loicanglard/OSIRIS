@@ -6,7 +6,7 @@ Suivi des tâches pour le déploiement des agents Wazuh et la mise en place de p
 
 ## Lundi 29 juin — Agents, bases
 
-- [ ] Installer l'agent Wazuh sur Ubuntu
+- [ ] Installer l'agent Wazuh sur Mint
 - [x] Installer l'agent Wazuh sur Kali
 - [ ] Vérifier l'enrollment des deux agents dans le manager
 
@@ -30,7 +30,7 @@ Suivi des tâches pour le déploiement des agents Wazuh et la mise en place de p
 
 ## Vendredi 3 juillet — pfSense, étape 2/3 : bascule
 
-- [ ] Basculer la gateway des VM (Wazuh, Ubuntu, Kali, Windows 10) vers pfSense
+- [ ] Basculer la gateway des VM (Wazuh, Mint, Kali, Windows 10) vers pfSense
 - [ ] Définir les règles de pare-feu de base (politique par défaut)
 - [ ] Tester la connectivité de chaque VM après bascule
 
