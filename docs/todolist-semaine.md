@@ -6,9 +6,9 @@ Suivi des tâches pour le déploiement des agents Wazuh et la mise en place de p
 
 ## Lundi 29 juin — Agents, bases
 
-- [ ] Installer l'agent Wazuh sur Mint
+- [x] Installer l'agent Wazuh sur Mint
 - [x] Installer l'agent Wazuh sur Kali
-- [ ] Vérifier l'enrollment des deux agents dans le manager
+- [x] Vérifier l'enrollment des deux agents dans le manager
 
 ## Mardi 30 juin — Agents, suite
 
