@@ -12,9 +12,9 @@ Suivi des tâches pour le déploiement des agents Wazuh et la mise en place de p
 
 ## Mardi 30 juin — Agents, suite
 
-- [ ] Installer l'agent Wazuh sur Windows 10
-- [ ] Installer l'agent Wazuh sur Metasploitable (ou agentless si incompatible)
-- [ ] Vérifier réception des logs des 4 sources dans le dashboard
+- [x] Installer l'agent Wazuh sur Windows 10
+- [x] Installer l'agent Wazuh sur Metasploitable (ou agentless si incompatible)
+- [x] Vérifier réception des logs des 4 sources dans le dashboard
 
 ## Mercredi 1 juillet — Règles & détection
 
