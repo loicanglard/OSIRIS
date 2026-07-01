@@ -25,8 +25,8 @@ Suivi des tâches pour le déploiement des agents Wazuh et la mise en place de p
 ## Jeudi 2 juillet — pfSense, étape 1/3 : création
 
 - [x] Créer la VM pfSense dans Proxmox
-- [ ] Définir le plan d'adressage réseau (segments / VLAN)
-- [ ] Configurer les interfaces réseau de pfSense (WAN/LAN)
+- [x] Définir le plan d'adressage réseau (segments / VLAN)
+- [x] Configurer les interfaces réseau de pfSense (WAN/LAN)
 
 ## Vendredi 3 juillet — pfSense, étape 2/3 : bascule
 
