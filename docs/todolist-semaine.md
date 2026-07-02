@@ -30,9 +30,9 @@ Suivi des tâches pour le déploiement des agents Wazuh et la mise en place de p
 
 ## Vendredi 3 juillet — pfSense, étape 2/3 : bascule
 
-- [ ] Basculer la gateway des VM (Wazuh, Mint, Kali, Windows 10) vers pfSense
+- [x] Basculer la gateway des VM (Wazuh, Mint, Kali, Windows 10) vers pfSense
 - [ ] Définir les règles de pare-feu de base (politique par défaut)
-- [ ] Tester la connectivité de chaque VM après bascule
+- [x] Tester la connectivité de chaque VM après bascule
 
 ## Samedi 4 juillet — pfSense, étape 3/3 : validation
 
@@ -50,4 +50,4 @@ Suivi des tâches pour le déploiement des agents Wazuh et la mise en place de p
 
 ---
 
-**Progression actuelle : 2 / 23 tâches**
+**Progression actuelle : 11 / 23 tâches**
